@@ -7,7 +7,7 @@ List of files
 2. data.csv
 3. README(this file)
 
-Usage
+How to Run the code
 -----
 To run the program with dataset provided and default values for *minSupport* = 0.15 and *minConfidence* = 0.6
 
